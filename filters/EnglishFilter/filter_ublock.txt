@@ -10,6 +10,7 @@
 !
 ! List of advertising domains
 !
+||adapex.io^$3p
 ||googleadservices.com^
 ||googlesyndication.com^
 ||doubleclick.net^
