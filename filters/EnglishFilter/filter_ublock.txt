@@ -14,3 +14,12 @@
 ||googlesyndication.com^
 ||doubleclick.net^
 !
+
+! -------------------------------------------------------------------
+! DIV ads block
+! -------------------------------------------------------------------
+!
+! DIV ads blocklist
+!
+gbmb.org##.minh250
+gbmb.org##main > .center
