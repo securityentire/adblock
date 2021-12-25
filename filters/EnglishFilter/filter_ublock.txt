@@ -10,10 +10,12 @@
 ! List of advertising domains
 !
 ||adapex.io^$3p
+||adskeeper.com^
+||doubleclick.net^
 ||franecki.net^
 ||googleadservices.com^
 ||googlesyndication.com^
-||doubleclick.net^
+||trafficbass.com^
 !
 
 ! -------------------------------------------------------------------
