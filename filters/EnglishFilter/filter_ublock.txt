@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: SecurityEntire Adblock Base for uBO
 ! Description: This filter blocks ads on a English websites.
-! Version: 1.0.1
 ! Homepage: https://github.com/securityentire/adblock
 
 ! -------------------------------------------------------------------
