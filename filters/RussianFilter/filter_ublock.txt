@@ -37,6 +37,7 @@
 !
 ! DIV ads blocklist
 !
+serpantinidey.ru##.cms_post_html > table
 travelask.ru##.gallery-sidead__ad
 vritme.net###n-rek-top-banner-row
 vritme.net###n-rek-list-middle-banner-row
