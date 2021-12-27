@@ -34,3 +34,12 @@ gbmb.org##.minh250
 gbmb.org##main > .center
 viva.pl##.pending-ad
 !
+
+! -------------------------------------------------------------------
+! Specific block
+! -------------------------------------------------------------------
+!
+! Specific ads block
+!
+||google.com/adsense/search/
+!
