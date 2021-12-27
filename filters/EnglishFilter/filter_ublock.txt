@@ -27,6 +27,8 @@
 ||googleadservices.com^
 ||googlesyndication.com^
 ||kameleoon.eu^
+||ml314.com^
+||servebom.com^
 ||trafficbass.com^
 ||viglink.com^
 !
@@ -47,6 +49,19 @@ heise.de##div[style="min-height: 400px;"]
 pythonprogramming.altervista.org##.avadvslot
 ! viva.pl##.pending-ad
 viva.pl##.placement
+!
+
+! -------------------------------------------------------------------
+! General DIV ads block
+! -------------------------------------------------------------------
+!
+! General DIV advert block
+!
+##.adunit
+##.adunit-purch
+##.adunit-wrap
+###banneradspace
+##.crumb-ad
 !
 
 ! -------------------------------------------------------------------
