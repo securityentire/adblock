@@ -4,6 +4,15 @@
 ! Homepage: https://github.com/securityentire/adblock
 
 ! -------------------------------------------------------------------
+! General block
+! -------------------------------------------------------------------
+!
+! General ads block
+!
+/prebid.$domain=~prebid.org
+!
+
+! -------------------------------------------------------------------
 ! Advertising domains
 ! -------------------------------------------------------------------
 !
@@ -17,6 +26,7 @@
 ||franecki.net^
 ||googleadservices.com^
 ||googlesyndication.com^
+||kameleoon.eu^
 ||trafficbass.com^
 ||viglink.com^
 !
