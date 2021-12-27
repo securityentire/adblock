@@ -9,6 +9,7 @@
 !
 ! General ads block
 !
+.ru/ads/
 /ad-banner.
 !
 
@@ -20,6 +21,7 @@
 !
 ||adriver.ru^
 ||bro1.biz^$3p
+||gnezdo.ru^
 ||major-inpp-code.com^$3p
 ||utarget.ru^
 !
@@ -47,5 +49,9 @@ vritme.net###n-rek-list-top-banner-row
 !
 ! General DIV advert block
 !
+##.adsbygoogle
+##div[id^="gnezdo_ru_"]
 ##div[id^="yandex_rtb"]
+###google_ads_frame1
+##iframe[id^="google_ads_frame"]
 !
