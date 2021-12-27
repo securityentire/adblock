@@ -27,6 +27,9 @@
 !
 ! DIV ads blocklist
 !
+farminguk.com##.advert-word
+farminguk.com##.keyword-image-advert
+farminguk.com###newsadvert
 gbmb.org##.minh250
 gbmb.org##main > .center
 viva.pl##.pending-ad
