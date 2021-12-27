@@ -44,7 +44,8 @@ heise.de##div[style="min-height: 250px;"]
 heise.de##div[style="min-height: 400px;"]
 gbmb.org##.minh250
 gbmb.org##main > .center
-viva.pl##.pending-ad
+! viva.pl##.pending-ad
+viva.pl##.placement
 !
 
 ! -------------------------------------------------------------------
