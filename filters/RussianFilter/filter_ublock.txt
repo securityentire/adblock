@@ -4,23 +4,43 @@
 ! Homepage: https://github.com/securityentire/adblock
 
 ! -------------------------------------------------------------------
+! General advert block
+! -------------------------------------------------------------------
+!
+! General ads block
+!
+/ad-banner.
+!
+
+! -------------------------------------------------------------------
 ! Advertising domains
 ! -------------------------------------------------------------------
 !
 ! List of advertising domains
 !
+||adriver.ru^
 ||bro1.biz^$3p
 ||major-inpp-code.com^$3p
 ||utarget.ru^
 !
 
 ! -------------------------------------------------------------------
-! DIV ads block
+! DIV ads block specific
 ! -------------------------------------------------------------------
 !
 ! DIV ads blocklist
 !
+travelask.ru##.gallery-sidead__ad
 vritme.net###n-rek-top-banner-row
 vritme.net###n-rek-list-middle-banner-row
 vritme.net###n-rek-list-top-banner-row
+!
+
+! -------------------------------------------------------------------
+! General DIV ads block
+! -------------------------------------------------------------------
+!
+! General DIV advert block
+!
+##div[id^="yandex_rtb"]
 !
