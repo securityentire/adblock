@@ -23,6 +23,11 @@
 ||major-inpp-code.com^$3p
 ||utarget.ru^
 !
+!
+! List of news advertising domains
+!
+||wuidtl.com^$3p
+!
 
 ! -------------------------------------------------------------------
 ! DIV ads block specific
