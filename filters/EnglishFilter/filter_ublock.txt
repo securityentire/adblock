@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: SecurityEntire Adblock Base for uBO
-! Description: This filter blocks ads on a English websites.
+! Description: This filter blocks ads on a English and some country websites.
 ! Homepage: https://github.com/securityentire/adblock
 
 ! -------------------------------------------------------------------
@@ -10,6 +10,7 @@
 ! List of advertising domains
 !
 ||adapex.io^$3p
+||adocean.pl^
 ||adskeeper.com^
 ||doubleclick.net^
 ||franecki.net^
@@ -26,4 +27,5 @@
 !
 gbmb.org##.minh250
 gbmb.org##main > .center
+viva.pl##.pending-ad
 !
