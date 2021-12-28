@@ -9,7 +9,10 @@
 !
 ! General ads block
 !
+-adserver.$domain=~aqua-adserver.com
+/ads-beacon.
 /prebid.$domain=~prebid.org
+/production/ads/*
 !
 
 ! -------------------------------------------------------------------
@@ -29,6 +32,7 @@
 ||kameleoon.eu^
 ||ml314.com^
 ||servebom.com^
+||servedbyadbutler.com^
 ||trafficbass.com^
 ||viglink.com^
 !
@@ -68,7 +72,9 @@ viva.pl##.placement
 ###banneradspace
 ##.crumb-ad
 ##div[class*="td-a-rec-id-"]
+##div[id^="div-gpt-"]
 ##.gads
+##.google-ad
 ##.imagead
 ##.td-a-rec
 !
