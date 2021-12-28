@@ -13,6 +13,7 @@
 /ads-beacon.
 /prebid.$domain=~prebid.org
 /production/ads/*
+/sponsored-widget
 !
 
 ! -------------------------------------------------------------------
@@ -21,16 +22,30 @@
 !
 ! List of advertising domains
 !
+||3lift.com^
 ||adapex.io^$3p
 ||adpushup.com^
 ||adocean.pl^
 ||adskeeper.com^
+||adsrvr.org^
+||adrecover.com^
+||amazon-adsystem.com^
+||contextweb.com^
 ||doubleclick.net^
+||emxdgt.com^
 ||franecki.net^
 ||googleadservices.com^
 ||googlesyndication.com^
 ||kameleoon.eu^
+||kostprice.com^
+||lijit.com^
+||mfadsrvr.com^
 ||ml314.com^
+||omnitagjs.com^
+||openx.net^
+||perfectmarket.com^
+||pubmatic.com^
+||rubiconproject.com^
 ||servebom.com^
 ||servedbyadbutler.com^
 ||trafficbass.com^
@@ -47,6 +62,7 @@ devdiscourse.com##.col-md-4 > div.m-t-10
 farminguk.com##.advert-word
 farminguk.com##.keyword-image-advert
 farminguk.com###newsadvert
+gadgets.ndtv.com##div[style="text-align:center;margin:10px auto 0;"]
 gbmb.org##.minh250
 gbmb.org##main > .center
 guwahatiplus.com##.top_horizontal_ad
@@ -74,6 +90,12 @@ viva.pl##.placement
 !
 ! General DIV advert block
 !
+##.ad300
+##.adhead
+##.advertisment
+##a[href^="https://ad.doubleclick.net/"]
+###adslot300x250ATF
+###adslot300x250BTF
 ##.ad_unit_wrapper
 ##.adunit
 ##.adunit-purch
@@ -91,6 +113,8 @@ viva.pl##.placement
 ##.imagead
 ##.roadblocker-ad-content-wrap
 ##.td-a-rec
+##.trc_rbox .syndicatedItem
+##.trc_related_container div[data-item-syndicated="true"]
 ###top_ad
 !
 
