@@ -23,6 +23,7 @@
 ||bro1.biz^$3p
 ||gnezdo.ru^
 ||major-inpp-code.com^$3p
+||nativeroll.tv^
 ||utarget.ru^
 !
 !
@@ -37,6 +38,7 @@
 !
 ! DIV ads blocklist
 !
+forbes.ru##._3UJki
 serpantinidey.ru##.cms_post_html > table
 travelask.ru##.gallery-sidead__ad
 vritme.net###n-rek-top-banner-row
