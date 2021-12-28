@@ -52,6 +52,7 @@ heise.de##div[style="min-height: 250px;"]
 heise.de##div[style="min-height: 400px;"]
 hindime.net##.stky-ads
 pythonprogramming.altervista.org##.avadvslot
+tutsnode.net##.tutsn-widget
 ! viva.pl##.pending-ad
 viva.pl##.placement
 !
