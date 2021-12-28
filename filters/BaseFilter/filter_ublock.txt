@@ -60,6 +60,7 @@ ommcomnews.com###media_image-12
 ommcomnews.com##.vc_figure.wpb_wrapper
 ommcomnews.com##.col-xs-8
 pythonprogramming.altervista.org##.avadvslot
+thebulletintime.com##.code-block
 tutsnode.net##.tutsn-widget
 ! viva.pl##.pending-ad
 viva.pl##.placement
