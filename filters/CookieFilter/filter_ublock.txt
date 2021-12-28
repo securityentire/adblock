@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: SecurityEntire Adblock Cookie for uBO
+! Description: This filter blocks cookie banners on a all websites.
+! Homepage: https://github.com/securityentire/adblock
+
+! -------------------------------------------------------------------
+! DIV cookie banners block
+! -------------------------------------------------------------------
+!
+! DIV cookie banners block
+!
+unwire.hk###cookie
+!
