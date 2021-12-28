@@ -61,6 +61,7 @@ ommcomnews.com###media_image-12
 ommcomnews.com##.vc_figure.wpb_wrapper
 ommcomnews.com##.col-xs-8
 pythonprogramming.altervista.org##.avadvslot
+sentinelassam.com###left_level_2
 thebulletintime.com##.code-block
 tutsnode.net##.tutsn-widget
 ! viva.pl##.pending-ad
@@ -73,6 +74,7 @@ viva.pl##.placement
 !
 ! General DIV advert block
 !
+##.ad_unit_wrapper
 ##.adunit
 ##.adunit-purch
 ##.adunit-wrap
@@ -87,7 +89,9 @@ viva.pl##.placement
 ##.gads
 ##.google-ad
 ##.imagead
+##.roadblocker-ad-content-wrap
 ##.td-a-rec
+###top_ad
 !
 
 ! -------------------------------------------------------------------
