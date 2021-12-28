@@ -46,6 +46,7 @@ gbmb.org##.minh250
 gbmb.org##main > .center
 heise.de##div[style="min-height: 250px;"]
 heise.de##div[style="min-height: 400px;"]
+hindime.net##.stky-ads
 pythonprogramming.altervista.org##.avadvslot
 ! viva.pl##.pending-ad
 viva.pl##.placement
@@ -60,8 +61,16 @@ viva.pl##.placement
 ##.adunit
 ##.adunit-purch
 ##.adunit-wrap
+##amp-ad
+##amp-sticky-ad
+##amp-auto-ads
+##AMP-AD
 ###banneradspace
 ##.crumb-ad
+##div[class*="td-a-rec-id-"]
+##.gads
+##.imagead
+##.td-a-rec
 !
 
 ! -------------------------------------------------------------------
