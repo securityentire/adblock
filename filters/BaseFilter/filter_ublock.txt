@@ -43,6 +43,7 @@
 !
 ! DIV ads blocklist
 !
+devdiscourse.com##.col-md-4 > div.m-t-10
 farminguk.com##.advert-word
 farminguk.com##.keyword-image-advert
 farminguk.com###newsadvert
