@@ -48,6 +48,8 @@ farminguk.com##.keyword-image-advert
 farminguk.com###newsadvert
 gbmb.org##.minh250
 gbmb.org##main > .center
+guwahatiplus.com##.top_horizontal_ad
+guwahatiplus.com##.adverisement_update
 heise.de##div[style="min-height: 250px;"]
 heise.de##div[style="min-height: 400px;"]
 hindime.net##.stky-ads
