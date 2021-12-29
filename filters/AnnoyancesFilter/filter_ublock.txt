@@ -4,6 +4,15 @@
 ! Homepage: https://github.com/securityentire/adblock
 
 ! -------------------------------------------------------------------
+! General annoyances block
+! -------------------------------------------------------------------
+!
+! General annoyances block
+!
+-push-notifications/$script
+!
+
+! -------------------------------------------------------------------
 ! DIV block
 ! -------------------------------------------------------------------
 !
@@ -11,4 +20,5 @@
 !
 newsmaker.md##.widget_media_image.widget
 radiotimes.com##.promotional-content
+radiotimes.com##.widget-newsletter-sign-up
 !
