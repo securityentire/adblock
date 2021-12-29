@@ -11,6 +11,7 @@
 !
 -adserver.$domain=~aqua-adserver.com
 /ads-beacon.
+/advertiser/*
 /cmbdv2.js
 /detroitchicago/houston.js
 /porpoiseant/*
