@@ -91,6 +91,7 @@ robots.net##.responsive-vertial-ad-wrapper
 robots.net###sticky-footer-ads
 sentinelassam.com###left_level_2
 thebulletintime.com##.code-block
+travis.media###widget-sticky
 tutsnode.net##.tutsn-widget
 ! viva.pl##.pending-ad
 viva.pl##.placement
@@ -102,6 +103,7 @@ viva.pl##.placement
 !
 ! General DIV advert block
 !
+##.affiliate
 ##.ad300
 ##.adhead
 ##.adtester-container
