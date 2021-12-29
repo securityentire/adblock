@@ -48,6 +48,7 @@
 ||rubiconproject.com^
 ||servebom.com^
 ||servedbyadbutler.com^
+||thisiswaldo.com^
 ||trafficbass.com^
 ||viglink.com^
 !
@@ -77,6 +78,9 @@ ommcomnews.com###media_image-12
 ommcomnews.com##.vc_figure.wpb_wrapper
 ommcomnews.com##.col-xs-8
 pythonprogramming.altervista.org##.avadvslot
+robots.net##.responsive-ad-match-wrapper
+robots.net##.responsive-vertial-ad-wrapper
+robots.net###sticky-footer-ads
 sentinelassam.com###left_level_2
 thebulletintime.com##.code-block
 tutsnode.net##.tutsn-widget
@@ -107,10 +111,13 @@ viva.pl##.placement
 ###banneradspace
 ##.crumb-ad
 ##div[class*="td-a-rec-id-"]
+##div[id^="amzn-assoc-ad"]
 ##div[id^="div-gpt-"]
 ##.gads
 ##.google-ad
 ##.imagead
+##.responsive-ad
+##.responsive-ad-wrapper
 ##.roadblocker-ad-content-wrap
 ##.td-a-rec
 ##.trc_rbox .syndicatedItem
