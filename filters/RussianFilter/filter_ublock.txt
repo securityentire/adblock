@@ -43,6 +43,7 @@ news102.ru##.snppopup
 news102.ru##.td-header-rec-wrap
 newsmaker.md###custom_html-21
 newsmaker.md###custom_html-20
+newsmaker.md###evonews_category_post_widget-3
 newsmaker.md###evonews_category_post_widget-5
 serpantinidey.ru##.cms_post_html > table
 travelask.ru##.gallery-sidead__ad
