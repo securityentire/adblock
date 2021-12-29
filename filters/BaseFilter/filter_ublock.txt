@@ -11,6 +11,7 @@
 !
 -adserver.$domain=~aqua-adserver.com
 /ads-beacon.
+/cmbdv2.js
 /detroitchicago/houston.js
 /porpoiseant/*
 /prebid.$domain=~prebid.org
@@ -77,6 +78,8 @@ heise.de##div[style="min-height: 400px;"]
 hindime.net##.stky-ads
 merriam-webster.com##.cafemedia-ad-slot-right1
 merriam-webster.com##.cafemedia-ad-slot-top
+microcontrollerslab.com##.widget_block.inner-padding.widget
+microcontrollerslab.com###text-6
 ommcomnews.com##.mrzd-container
 ommcomnews.com###media_image-9
 ommcomnews.com###media_image-10
