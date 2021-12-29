@@ -31,6 +31,7 @@
 ||adskeeper.com^
 ||adsrvr.org^
 ||adrecover.com^
+||adthrive.com^
 ||amazon-adsystem.com^
 ||contextweb.com^
 ||doubleclick.net^
@@ -74,6 +75,8 @@ guwahatiplus.com##.adverisement_update
 heise.de##div[style="min-height: 250px;"]
 heise.de##div[style="min-height: 400px;"]
 hindime.net##.stky-ads
+merriam-webster.com##.cafemedia-ad-slot-right1
+merriam-webster.com##.cafemedia-ad-slot-top
 ommcomnews.com##.mrzd-container
 ommcomnews.com###media_image-9
 ommcomnews.com###media_image-10
