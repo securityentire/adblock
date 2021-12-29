@@ -9,5 +9,6 @@
 !
 ! DIV cookie banners block
 !
+smallpdf.com##.sc-1bhf2s-0
 unwire.hk###cookie
 !
