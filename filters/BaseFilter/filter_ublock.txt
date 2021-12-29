@@ -10,13 +10,17 @@
 ! General ads block
 !
 -adserver.$domain=~aqua-adserver.com
+_300x250.
 /ads-beacon.
 /advertiser/*
+/banner/*.gif
 /cmbdv2.js
 /detroitchicago/houston.js
+/displaybanner/*
 /porpoiseant/*
 /prebid.$domain=~prebid.org
-/production/ads/*
+/production/ads/
+/shared/ad_
 /sponsored-widget
 !
 
@@ -42,9 +46,11 @@
 ||franecki.net^
 ||googleadservices.com^
 ||googlesyndication.com^
+||hbb.afl.rakuten.co.jp^
 ||kameleoon.eu^
 ||kostprice.com^
 ||lijit.com^
+||mediaforge.com^
 ||mfadsrvr.com^
 ||microad.jp^$3p
 ||ml314.com^
@@ -58,6 +64,7 @@
 ||rubiconproject.com^
 ||servebom.com^
 ||servedbyadbutler.com^
+||socdm.com^
 ||speee-ad.akamaized.net^
 ||thisiswaldo.com^
 ||trafficbass.com^
@@ -81,6 +88,7 @@
 !
 beauty.oricon.co.jp##aside[style="text-align:center;margin-top:3px;min-height:100px; margin-bottom: 20px;"]
 beauty.oricon.co.jp##.break-ad-box
+chobirich.com##div[class^="bnr_skyscraper_"]
 devdiscourse.com##.col-md-4 > div.m-t-10
 farminguk.com##.advert-word
 farminguk.com##.keyword-image-advert
