@@ -86,8 +86,8 @@ _300x250.
 !
 ! DIV ads blocklist
 !
-audiobookbay.ws###rsidebar > ul > li:nth-of-type(6)
 audiobookbay.ws###rsidebar > ul > li:nth-of-type(2)
+audiobookbay.ws###rsidebar > ul > li:nth-of-type(6)
 beauty.oricon.co.jp##aside[style="text-align:center;margin-top:3px;min-height:100px; margin-bottom: 20px;"]
 beauty.oricon.co.jp##.break-ad-box
 chobirich.com##div[class^="bnr_skyscraper_"]
