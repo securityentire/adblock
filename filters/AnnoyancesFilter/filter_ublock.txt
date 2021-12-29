@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: SecurityEntire Adblock Annoyances for uBO
+! Description: This filter blocks annoyance on a all websites.
+! Homepage: https://github.com/securityentire/adblock
+
+! -------------------------------------------------------------------
+! DIV block
+! -------------------------------------------------------------------
+!
+! DIV annoyances block
+!
+newsmaker.md##.widget_media_image.widget
+!
