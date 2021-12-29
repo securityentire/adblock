@@ -12,4 +12,5 @@
 smallpdf.com##.sc-1bhf2s-0
 strana.news###openModal
 unwire.hk###cookie
+voelkner.de##.reveal__overlay
 !
