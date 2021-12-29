@@ -48,6 +48,7 @@
 ||mfadsrvr.com^
 ||microad.jp^$3p
 ||ml314.com^
+||pos.baidu.com^
 ||omnitagjs.com^
 ||openx.net^
 ||perfectmarket.com^
@@ -92,6 +93,7 @@ guwahatiplus.com##.adverisement_update
 heise.de##div[style="min-height: 250px;"]
 heise.de##div[style="min-height: 400px;"]
 hindime.net##.stky-ads
+m.chinaz.com##.bd-keywords
 merriam-webster.com##.cafemedia-ad-slot-right1
 merriam-webster.com##.cafemedia-ad-slot-top
 microcontrollerslab.com##.widget_block.inner-padding.widget
