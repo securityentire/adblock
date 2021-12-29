@@ -10,5 +10,6 @@
 ! DIV cookie banners block
 !
 smallpdf.com##.sc-1bhf2s-0
+strana.news###openModal
 unwire.hk###cookie
 !
