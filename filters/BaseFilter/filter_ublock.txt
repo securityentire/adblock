@@ -17,6 +17,7 @@ _300x250.
 /cmbdv2.js
 /detroitchicago/houston.js
 /displaybanner/*
+/js/advertising/*
 /porpoiseant/*
 /prebid.$domain=~prebid.org
 /production/ads/
@@ -54,6 +55,7 @@ _300x250.
 ||mfadsrvr.com^
 ||microad.jp^$3p
 ||ml314.com^
+||npttech.com^
 ||pos.baidu.com^
 ||omnitagjs.com^
 ||openx.net^
@@ -118,6 +120,9 @@ ommcomnews.com##.col-xs-8
 outofthe925.com###media_image-2
 outofthe925.com###media_image-3
 pythonprogramming.altervista.org##.avadvslot
+radiotimes.com##.ad-banner-container
+radiotimes.com##.dfp-ad
+radiotimes.com##.sidebar__item-spacer--advert-top
 robots.net##.responsive-ad-match-wrapper
 robots.net##.responsive-vertial-ad-wrapper
 robots.net###sticky-footer-ads
@@ -139,6 +144,7 @@ viva.pl##.placement
 !
 ##.affiliate
 ##.ad300
+##.ad-banner-wrapper
 ##.adhead
 ##.adtester-container
 ##.advertisment
@@ -168,9 +174,14 @@ viva.pl##.placement
 ##.gads
 ##.google-ad
 ##.imagead
+##.js-ad-banner-container
+##.js-dfp-ad-bottom
+##.js-dfp-ad-top
+##.js-mpu
 ##.responsive-ad
 ##.responsive-ad-wrapper
 ##.roadblocker-ad-content-wrap
+##.single-mpu
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##.td-a-rec
 ##.trc_rbox .syndicatedItem
