@@ -39,6 +39,8 @@
 ! DIV ads blocklist
 !
 forbes.ru##._3UJki
+news102.ru##.snppopup
+news102.ru##.td-header-rec-wrap
 serpantinidey.ru##.cms_post_html > table
 travelask.ru##.gallery-sidead__ad
 vritme.net###n-rek-top-banner-row
