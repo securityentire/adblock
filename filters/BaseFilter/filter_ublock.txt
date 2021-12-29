@@ -81,6 +81,7 @@ merriam-webster.com##.cafemedia-ad-slot-right1
 merriam-webster.com##.cafemedia-ad-slot-top
 microcontrollerslab.com##.widget_block.inner-padding.widget
 microcontrollerslab.com###text-6
+neggly.org##.card-panel:nth-of-type(2)
 ommcomnews.com##.mrzd-container
 ommcomnews.com###media_image-9
 ommcomnews.com###media_image-10
