@@ -33,6 +33,7 @@
 ||adsrvr.org^
 ||adrecover.com^
 ||adthrive.com^
+||affinity.com^
 ||amazon-adsystem.com^
 ||contextweb.com^
 ||doubleclick.net^
@@ -94,6 +95,8 @@ robots.net##.responsive-vertial-ad-wrapper
 robots.net###sticky-footer-ads
 sentinelassam.com###left_level_2
 thebulletintime.com##.code-block
+thequint.com##._38DG7
+thequint.com##._4xQrn
 travis.media###widget-sticky
 tutsnode.net##.tutsn-widget
 ! viva.pl##.pending-ad
