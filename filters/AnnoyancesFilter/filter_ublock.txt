@@ -10,4 +10,5 @@
 ! DIV annoyances block
 !
 newsmaker.md##.widget_media_image.widget
+radiotimes.com##.promotional-content
 !
