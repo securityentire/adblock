@@ -11,6 +11,8 @@
 !
 -adserver.$domain=~aqua-adserver.com
 /ads-beacon.
+/detroitchicago/houston.js
+/porpoiseant/*
 /prebid.$domain=~prebid.org
 /production/ads/*
 /sponsored-widget
@@ -45,6 +47,7 @@
 ||openx.net^
 ||perfectmarket.com^
 ||pubmatic.com^
+||quantserve.com^
 ||rubiconproject.com^
 ||servebom.com^
 ||servedbyadbutler.com^
@@ -77,6 +80,8 @@ ommcomnews.com###media_image-10
 ommcomnews.com###media_image-12
 ommcomnews.com##.vc_figure.wpb_wrapper
 ommcomnews.com##.col-xs-8
+outofthe925.com###media_image-2
+outofthe925.com###media_image-3
 pythonprogramming.altervista.org##.avadvslot
 robots.net##.responsive-ad-match-wrapper
 robots.net##.responsive-vertial-ad-wrapper
@@ -96,6 +101,7 @@ viva.pl##.placement
 !
 ##.ad300
 ##.adhead
+##.adtester-container
 ##.advertisment
 ##a[href^="https://ad.doubleclick.net/"]
 ###adslot300x250ATF
@@ -113,12 +119,19 @@ viva.pl##.placement
 ##div[class*="td-a-rec-id-"]
 ##div[id^="amzn-assoc-ad"]
 ##div[id^="div-gpt-"]
+##.ezo_ad
+##.ezoic-ad
+##.ezoic-ad-adaptive
+##.ezoic-floating-bottom
+##.ezmob-footer
+##.ezmob-footer-desktop
 ##.gads
 ##.google-ad
 ##.imagead
 ##.responsive-ad
 ##.responsive-ad-wrapper
 ##.roadblocker-ad-content-wrap
+##span[id^="ezoic-pub-ad-placeholder-"]
 ##.td-a-rec
 ##.trc_rbox .syndicatedItem
 ##.trc_related_container div[data-item-syndicated="true"]
