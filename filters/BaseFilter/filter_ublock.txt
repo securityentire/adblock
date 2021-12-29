@@ -45,18 +45,30 @@
 ||kostprice.com^
 ||lijit.com^
 ||mfadsrvr.com^
+||microad.jp^$3p
 ||ml314.com^
 ||omnitagjs.com^
 ||openx.net^
 ||perfectmarket.com^
+||prebid.org^
 ||pubmatic.com^
 ||quantserve.com^
 ||rubiconproject.com^
 ||servebom.com^
 ||servedbyadbutler.com^
+||speee-ad.akamaized.net^
 ||thisiswaldo.com^
 ||trafficbass.com^
 ||viglink.com^
+!
+
+! -------------------------------------------------------------------
+! Whitelist to fix breaks
+! -------------------------------------------------------------------
+!
+! Unbreak list
+!
+@@||prebid.org^$domain=prebid.org
 !
 
 ! -------------------------------------------------------------------
@@ -65,6 +77,8 @@
 !
 ! DIV ads blocklist
 !
+beauty.oricon.co.jp##aside[style="text-align:center;margin-top:3px;min-height:100px; margin-bottom: 20px;"]
+beauty.oricon.co.jp##.break-ad-box
 devdiscourse.com##.col-md-4 > div.m-t-10
 farminguk.com##.advert-word
 farminguk.com##.keyword-image-advert
@@ -115,6 +129,7 @@ viva.pl##.placement
 ##.adhead
 ##.adtester-container
 ##.advertisment
+##.adwrap
 ##a[href^="https://ad.doubleclick.net/"]
 ###adslot300x250ATF
 ###adslot300x250BTF
