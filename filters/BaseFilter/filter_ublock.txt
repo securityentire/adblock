@@ -95,7 +95,6 @@ _300x250.
 ! DIV ads blocklist
 !
 androidjiten.com##div[id^="surfing_adsense_widget-"]
-androidjiten.com##.article_social__title
 audiobookbay.ws###rsidebar > ul > li:nth-of-type(2)
 audiobookbay.ws###rsidebar > ul > li:nth-of-type(6)
 beauty.oricon.co.jp##aside[style="text-align:center;margin-top:3px;min-height:100px; margin-bottom: 20px;"]
