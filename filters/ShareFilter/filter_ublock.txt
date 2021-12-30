@@ -1,0 +1,22 @@
+[Adblock Plus 2.0]
+! Title: SecurityEntire Adblock Share for uBO
+! Description: This filter blocks social widgets, share on a all websites.
+! Homepage: https://github.com/securityentire/adblock
+
+! -------------------------------------------------------------------
+! DIV general share block
+! -------------------------------------------------------------------
+!
+! DIV general share block
+!
+##.share-text
+!
+
+! -------------------------------------------------------------------
+! DIV share block
+! -------------------------------------------------------------------
+!
+! DIV share block
+!
+360x2022.yandex##.share
+!
