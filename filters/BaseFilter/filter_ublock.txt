@@ -143,6 +143,8 @@ travis.media###widget-sticky
 tutsnode.net##.tutsn-widget
 ! viva.pl##.pending-ad
 viva.pl##.placement
+yenierzurumhaber.com##div[id^="ayesoft_sidereklam_widget-"]
+yenierzurumhaber.com##.reklammain
 !
 
 ! -------------------------------------------------------------------
