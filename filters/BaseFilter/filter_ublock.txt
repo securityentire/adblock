@@ -134,6 +134,10 @@ pythonprogramming.altervista.org##.avadvslot
 radiotimes.com##.ad-banner-container
 radiotimes.com##.dfp-ad
 radiotimes.com##.sidebar__item-spacer--advert-top
+rd1.com.br##.trr-partner-nb-container
+rd1.com.br##.wrapper__sidebar.sidebar
+rd1.com.br##div[id^="Position_Content"]
+rd1.com.br###Position_Top
 robots.net##.responsive-ad-match-wrapper
 robots.net##.responsive-vertial-ad-wrapper
 robots.net###sticky-footer-ads
@@ -161,6 +165,8 @@ yenierzurumhaber.com##.reklammain
 ##.ad300
 ##.ads970
 ##.ad-banner-wrapper
+##.ad-block
+##.ads-container
 ##.adhead
 ##.adtester-container
 ##.advertisment
@@ -192,6 +198,7 @@ yenierzurumhaber.com##.reklammain
 ##.google-ad
 ##.header-ads
 ###header-ads
+##[href*=".smartadserver.com"]
 ##.imagead
 ##img[width="160"][height="600"]
 ##.js-ad-banner-container
