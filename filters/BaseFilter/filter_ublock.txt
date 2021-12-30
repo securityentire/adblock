@@ -33,6 +33,7 @@ _300x250.
 !
 ||3lift.com^
 ||adapex.io^$3p
+||adhitzads.com^
 ||adpushup.com^
 ||adocean.pl^
 ||adskeeper.com^
@@ -106,6 +107,7 @@ heise.de##div[style="min-height: 250px;"]
 heise.de##div[style="min-height: 400px;"]
 hindime.net##.stky-ads
 m.chinaz.com##.bd-keywords
+mega-sistemas-pro.blogspot.com###HTML5
 merriam-webster.com##.cafemedia-ad-slot-right1
 merriam-webster.com##.cafemedia-ad-slot-top
 microcontrollerslab.com##.widget_block.inner-padding.widget
@@ -149,6 +151,7 @@ viva.pl##.placement
 ##.adtester-container
 ##.advertisment
 ##.adwrap
+###ad-wrapper
 ##a[href^="https://ad.doubleclick.net/"]
 ###adslot300x250ATF
 ###adslot300x250BTF
@@ -173,6 +176,8 @@ viva.pl##.placement
 ##.ezmob-footer-desktop
 ##.gads
 ##.google-ad
+##.header-ads
+###header-ads
 ##.imagead
 ##.js-ad-banner-container
 ##.js-dfp-ad-bottom
@@ -183,6 +188,8 @@ viva.pl##.placement
 ##.roadblocker-ad-content-wrap
 ##.single-mpu
 ##span[id^="ezoic-pub-ad-placeholder-"]
+##.sticky-ad
+###sticky-ad
 ##.td-a-rec
 ##.trc_rbox .syndicatedItem
 ##.trc_related_container div[data-item-syndicated="true"]
