@@ -9,6 +9,11 @@
 !
 ! DIV general share block
 !
+##a[href*="//www.facebook.com/share.php"]
+##a[href^="http://b.hatena.ne.jp/entry/"]
+##a[href^="https://twitter.com/share"]
+##.btn_share
+##.hatena-bookmark-button
 ##.share-text
 !
 
