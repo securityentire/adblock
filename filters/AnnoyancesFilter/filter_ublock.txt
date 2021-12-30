@@ -18,6 +18,7 @@
 !
 ! DIV annoyances block
 !
+datacamp.com##.dc-ps-banner-wrapper
 newsmaker.md##.widget_media_image.widget
 radiotimes.com##.promotional-content
 radiotimes.com##.widget-newsletter-sign-up
