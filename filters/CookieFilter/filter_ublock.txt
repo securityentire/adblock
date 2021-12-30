@@ -18,6 +18,7 @@
 !
 ! DIV cookie banners block
 !
+is74.ru##.cookie-card
 smallpdf.com##.sc-1bhf2s-0
 strana.news###openModal
 unwire.hk###cookie
