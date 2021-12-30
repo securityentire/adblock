@@ -24,6 +24,7 @@ _300x250.
 /production/ads/
 /shared/ad_
 /sponsored-widget
+/yads.$domain=~yads.org.il
 !
 
 ! -------------------------------------------------------------------
@@ -51,6 +52,7 @@ _300x250.
 ||googleadservices.com^
 ||googlesyndication.com^
 ||hbb.afl.rakuten.co.jp^
+||impact-ad.jp^
 ||kameleoon.eu^
 ||kostprice.com^
 ||lijit.com^
@@ -136,6 +138,8 @@ robots.net##.responsive-ad-match-wrapper
 robots.net##.responsive-vertial-ad-wrapper
 robots.net###sticky-footer-ads
 sentinelassam.com###left_level_2
+sponichi.co.jp##.banner03
+sponichi.co.jp##.square-area
 thebulletintime.com##.code-block
 thequint.com##._38DG7
 thequint.com##._4xQrn
