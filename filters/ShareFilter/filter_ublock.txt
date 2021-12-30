@@ -24,4 +24,5 @@
 ! DIV share block
 !
 360x2022.yandex##.share
+androidjiten.com##.article_social__title
 !
