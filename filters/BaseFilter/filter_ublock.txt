@@ -9,6 +9,7 @@
 !
 ! General ads block
 !
+-728x90-
 -adserver.$domain=~aqua-adserver.com
 _300x250.
 /ads-beacon.
@@ -42,6 +43,7 @@ _300x250.
 ||adthrive.com^
 ||affinity.com^
 ||amazon-adsystem.com^
+||coinzillatag.com^$3p
 ||contextweb.com^
 ||doubleclick.net^
 ||emxdgt.com^
@@ -94,6 +96,11 @@ audiobookbay.ws###rsidebar > ul > li:nth-of-type(6)
 beauty.oricon.co.jp##aside[style="text-align:center;margin-top:3px;min-height:100px; margin-bottom: 20px;"]
 beauty.oricon.co.jp##.break-ad-box
 chobirich.com##div[class^="bnr_skyscraper_"]
+coin-turk.com##.box > div > center
+coin-turk.com###meta-2.widget:nth-of-type(1)
+coin-turk.com##.banner
+coin-turk.com##.yenireklamdesktop
+coin-turk.com##.header_banner
 devdiscourse.com##.col-md-4 > div.m-t-10
 farminguk.com##.advert-word
 farminguk.com##.keyword-image-advert
