@@ -153,6 +153,7 @@ viva.pl##.placement
 !
 ##.affiliate
 ##.ad300
+##.ads970
 ##.ad-banner-wrapper
 ##.adhead
 ##.adtester-container
@@ -186,6 +187,7 @@ viva.pl##.placement
 ##.header-ads
 ###header-ads
 ##.imagead
+##img[width="160"][height="600"]
 ##.js-ad-banner-container
 ##.js-dfp-ad-bottom
 ##.js-dfp-ad-top
@@ -193,6 +195,7 @@ viva.pl##.placement
 ##.responsive-ad
 ##.responsive-ad-wrapper
 ##.roadblocker-ad-content-wrap
+##.sagreklam
 ##.single-mpu
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##.sticky-ad
