@@ -20,6 +20,7 @@
 !
 is74.ru##.cookie-card
 smallpdf.com##.sc-1bhf2s-0
+sponichi.co.jp##.toast-info
 strana.news###openModal
 tuclothing.sainsburys.co.uk###__tealiumGDPRecModal
 unwire.hk###cookie
