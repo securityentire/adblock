@@ -109,6 +109,8 @@ devdiscourse.com##.col-md-4 > div.m-t-10
 farminguk.com##.advert-word
 farminguk.com##.keyword-image-advert
 farminguk.com###newsadvert
+flutterq.com###fixedban
+flutterq.com##.inside-right-sidebar
 gadgets.ndtv.com##div[style="text-align:center;margin:10px auto 0;"]
 gbmb.org##.minh250
 gbmb.org##main > .center
