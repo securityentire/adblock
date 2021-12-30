@@ -107,7 +107,7 @@ heise.de##div[style="min-height: 250px;"]
 heise.de##div[style="min-height: 400px;"]
 hindime.net##.stky-ads
 m.chinaz.com##.bd-keywords
-mega-sistemas-pro.blogspot.com###HTML5
+mega-sistemas-pro.blogspot.com,pokoxemo.blogspot.com###HTML5
 merriam-webster.com##.cafemedia-ad-slot-right1
 merriam-webster.com##.cafemedia-ad-slot-top
 microcontrollerslab.com##.widget_block.inner-padding.widget
