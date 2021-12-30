@@ -21,6 +21,7 @@
 is74.ru##.cookie-card
 smallpdf.com##.sc-1bhf2s-0
 strana.news###openModal
+tuclothing.sainsburys.co.uk###__tealiumGDPRecModal
 unwire.hk###cookie
 voelkner.de##.reveal__overlay
 !
