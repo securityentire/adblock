@@ -30,6 +30,7 @@
 datacamp.com##.dc-ps-banner-wrapper
 journal.tinkoff.ru###bannerlink-level
 journal.tinkoff.ru###credit-card-footer-banner
+journal.tinkoff.ru##div[data-tracking-level-label*="mailing"]
 newsmaker.md##.widget_media_image.widget
 radiotimes.com##.promotional-content
 radiotimes.com##.widget-newsletter-sign-up
