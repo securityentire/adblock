@@ -17,6 +17,7 @@
 ##a[href^="https://telegram.me/share/url?"]
 ##a[href^="https://twitter.com/intent/tweet?"]
 ##a[href^="https://twitter.com/share"]
+##a[href^="https://web.whatsapp.com/send?text="]
 ##.btn_share
 ###fb-root:not(body):not(html)
 ##.hatena-bookmark-button
