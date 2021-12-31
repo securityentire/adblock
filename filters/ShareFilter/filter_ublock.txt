@@ -10,9 +10,15 @@
 ! DIV general share block
 !
 ##a[href*="//www.facebook.com/share.php"]
+##a[href^="https://www.facebook.com/sharer/sharer.php"]
 ##a[href^="http://b.hatena.ne.jp/entry/"]
+##a[href^="https://api.whatsapp.com/send?text="]
+##a[href^="https://www.linkedin.com/shareArticle"]
+##a[href^="https://telegram.me/share/url?"]
+##a[href^="https://twitter.com/intent/tweet?"]
 ##a[href^="https://twitter.com/share"]
 ##.btn_share
+###fb-root:not(body):not(html)
 ##.hatena-bookmark-button
 ##.share-text
 !
