@@ -48,6 +48,7 @@ _300x250.
 ||amazon-adsystem.com^
 ||coinzillatag.com^$3p
 ||contextweb.com^
+||d188m5xxcpvuue.cloudfront.net^
 ||doubleclick.net^
 ||emxdgt.com^
 ||franecki.net^
@@ -150,6 +151,8 @@ robots.net###sticky-footer-ads
 sentinelassam.com###left_level_2
 sponichi.co.jp##.banner03
 sponichi.co.jp##.square-area
+sporcle.com##.ad-hide
+sporcle.com##.IMGgi
 thebulletintime.com##.code-block
 thequint.com##._38DG7
 thequint.com##._4xQrn
@@ -175,6 +178,7 @@ yenierzurumhaber.com##.reklammain
 ##.ads-container
 ##.ad_area
 ##.adhead
+##.ad-top
 ##.adtester-container
 ##.advertisment
 ##.adwrap
@@ -221,6 +225,7 @@ yenierzurumhaber.com##.reklammain
 ##.sticky-ad
 ###sticky-ad
 ##.td-a-rec
+##.topad
 ##.trc_rbox .syndicatedItem
 ##.trc_related_container div[data-item-syndicated="true"]
 ###top_ad
