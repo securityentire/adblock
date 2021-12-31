@@ -127,6 +127,7 @@ microcontrollerslab.com###text-6
 mobilemagazinehk.com##.adv2
 neggly.org##.card-panel:nth-of-type(2)
 nv.ua##.background-branding
+nv.ua##div[id^="async_spec_"]
 ommcomnews.com##.mrzd-container
 ommcomnews.com###media_image-9
 ommcomnews.com###media_image-10
