@@ -41,6 +41,7 @@ _300x250.
 ||adskeeper.com^
 ||adsrvr.org^
 ||adrecover.com^
+||adtelligent.com^$3p
 ||adthrive.com^
 ||affinity.com^
 ||anymind360.com^
@@ -53,6 +54,7 @@ _300x250.
 ||googleadservices.com^
 ||googlesyndication.com^
 ||hbb.afl.rakuten.co.jp^
+||idealmedia.io^
 ||impact-ad.jp^
 ||kameleoon.eu^
 ||kostprice.com^
@@ -69,6 +71,7 @@ _300x250.
 ||prebid.org^
 ||pubmatic.com^
 ||quantserve.com^
+||rcvlink.com^
 ||rubiconproject.com^
 ||servebom.com^
 ||servedbyadbutler.com^
@@ -123,6 +126,7 @@ microcontrollerslab.com##.widget_block.inner-padding.widget
 microcontrollerslab.com###text-6
 mobilemagazinehk.com##.adv2
 neggly.org##.card-panel:nth-of-type(2)
+nv.ua##.background-branding
 ommcomnews.com##.mrzd-container
 ommcomnews.com###media_image-9
 ommcomnews.com###media_image-10
@@ -181,6 +185,8 @@ yenierzurumhaber.com##.reklammain
 ##.advertisment
 ##.adwrap
 ###adwallpaper
+##.ad-wrapper
+##.ad_wrapper
 ###ad-wrapper
 ##a[href^="https://ad.doubleclick.net/"]
 ###adslot300x250ATF
@@ -193,11 +199,13 @@ yenierzurumhaber.com##.reklammain
 ##amp-sticky-ad
 ##amp-auto-ads
 ##AMP-AD
+###banner-ad
 ###banneradspace
 ##.crumb-ad
 ##div[class*="td-a-rec-id-"]
 ##div[data-adunit]
 ##div[id^="amzn-assoc-ad"]
+##div[id^="banner-ad-"]
 ##div[id^="div-gpt-"]
 ##.ezo_ad
 ##.ezoic-ad
