@@ -9,6 +9,7 @@
 !
 ! General ads block
 !
+_728x90_
 .ru/ads/
 /ad-banner.
 !
@@ -19,17 +20,25 @@
 !
 ! List of advertising domains
 !
+||4736.in^$3p
 ||adriver.ru^
 ||bro1.biz^$3p
+||cdn-rtb.sape.ru^
 ||gnezdo.ru^
+||hunterdelivery.com^$3p
 ||major-inpp-code.com^$3p
 ||nativeroll.tv^
+||pravdoryb.info^$3p
+||r2gf0vo139.ru^$3p
 ||utarget.ru^
 !
+
 !
 ! List of news advertising domains
 !
 ||wuidtl.com^$3p
+||vlgpkn.com^$3p
+||zzxnxp.com^$3p
 !
 
 ! -------------------------------------------------------------------
@@ -50,6 +59,7 @@ travelask.ru##.gallery-sidead__ad
 vritme.net###n-rek-top-banner-row
 vritme.net###n-rek-list-middle-banner-row
 vritme.net###n-rek-list-top-banner-row
+zemlyaki.name##.right-col > .banner-block
 !
 
 ! -------------------------------------------------------------------
@@ -60,9 +70,11 @@ vritme.net###n-rek-list-top-banner-row
 !
 ##.ad-placement
 ##.adsbygoogle
+##[data-la-block]
 ##div[id^="adfox_"]
 ##div[id^="gnezdo_ru_"]
 ##div[id^="yandex_rtb"]
+##[id*="ScriptRoot"]
 ###google_ads_frame1
 ##iframe[id^="google_ads_frame"]
 !
