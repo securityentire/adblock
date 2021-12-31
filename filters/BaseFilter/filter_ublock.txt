@@ -131,6 +131,7 @@ ommcomnews.com##.vc_figure.wpb_wrapper
 ommcomnews.com##.col-xs-8
 outofthe925.com###media_image-2
 outofthe925.com###media_image-3
+pdfprof.com##div[style="padding:4px;height:500px !important;"]
 pythonprogramming.altervista.org##.avadvslot
 radiotimes.com##.ad-banner-container
 radiotimes.com##.dfp-ad
