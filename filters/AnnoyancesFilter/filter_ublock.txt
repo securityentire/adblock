@@ -33,3 +33,9 @@ radiotimes.com##.promotional-content
 radiotimes.com##.widget-newsletter-sign-up
 sporcle.com##.sporcle-promo
 !
+
+!
+! Mobile apps annoyances block for mobile
+!
+smt.docomo.ne.jp##.iosAppBanner
+!
