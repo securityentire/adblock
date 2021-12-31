@@ -33,6 +33,12 @@ journal.tinkoff.ru###bannerlink-level
 journal.tinkoff.ru###credit-card-footer-banner
 journal.tinkoff.ru##div[data-tracking-level-label*="mailing"]
 newsmaker.md##.widget_media_image.widget
+nv.ua##.collection_form__container
+nv.ua##.coronavirus_subscribe
+nv.ua##.nyt_promo
+nv.ua##.paywall-area
+nv.ua##.remp-banner
+nv.ua##.sponsors_left_fixed
 radiotimes.com##.promotional-content
 radiotimes.com##.widget-newsletter-sign-up
 sporcle.com##.sporcle-promo
