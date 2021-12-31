@@ -25,4 +25,5 @@
 !
 360x2022.yandex##.share
 androidjiten.com##.article_social__title
+eggs.mu##.m-sns
 !
