@@ -44,6 +44,7 @@ _300x250.
 ||adrecover.com^
 ||adthrive.com^
 ||affinity.com^
+||anymind360.com^
 ||amazon-adsystem.com^
 ||coinzillatag.com^$3p
 ||contextweb.com^
@@ -125,6 +126,7 @@ merriam-webster.com##.cafemedia-ad-slot-right1
 merriam-webster.com##.cafemedia-ad-slot-top
 microcontrollerslab.com##.widget_block.inner-padding.widget
 microcontrollerslab.com###text-6
+mobilemagazinehk.com##.adv2
 neggly.org##.card-panel:nth-of-type(2)
 ommcomnews.com##.mrzd-container
 ommcomnews.com###media_image-9
