@@ -111,6 +111,7 @@ devdiscourse.com##.col-md-4 > div.m-t-10
 farminguk.com##.advert-word
 farminguk.com##.keyword-image-advert
 farminguk.com###newsadvert
+forbes.com.br##.anuncio-billboard
 flutterq.com###fixedban
 flutterq.com##.inside-right-sidebar
 gadgets.ndtv.com##div[style="text-align:center;margin:10px auto 0;"]
@@ -198,6 +199,7 @@ yenierzurumhaber.com##.reklammain
 ###banneradspace
 ##.crumb-ad
 ##div[class*="td-a-rec-id-"]
+##div[data-adunit]
 ##div[id^="amzn-assoc-ad"]
 ##div[id^="div-gpt-"]
 ##.ezo_ad
@@ -225,6 +227,7 @@ yenierzurumhaber.com##.reklammain
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##.sticky-ad
 ###sticky-ad
+###taboola-below-article-thumbnails
 ##.td-a-rec
 ##.topad
 ##.trc_rbox .syndicatedItem
