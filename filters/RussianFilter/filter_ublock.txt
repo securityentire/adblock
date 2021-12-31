@@ -58,6 +58,7 @@ vritme.net###n-rek-list-top-banner-row
 !
 ! General DIV advert block
 !
+##.ad-placement
 ##.adsbygoogle
 ##div[id^="adfox_"]
 ##div[id^="gnezdo_ru_"]
