@@ -29,6 +29,7 @@
 ! DIV cookie banners block
 !
 is74.ru##.cookie-card
+nv.ua##.cookie-label
 pdfprof.com###dddhh
 smallpdf.com##.sc-1bhf2s-0
 sponichi.co.jp##.toast-info
