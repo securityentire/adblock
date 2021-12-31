@@ -36,6 +36,7 @@ newsmaker.md##.widget_media_image.widget
 radiotimes.com##.promotional-content
 radiotimes.com##.widget-newsletter-sign-up
 sporcle.com##.sporcle-promo
+zemlyaki.name##a[href="https://t.me/novostidnya7"]
 !
 
 !
