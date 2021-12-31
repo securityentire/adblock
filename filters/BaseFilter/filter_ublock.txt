@@ -177,6 +177,7 @@ yenierzurumhaber.com##.reklammain
 ##.adtester-container
 ##.advertisment
 ##.adwrap
+###adwallpaper
 ###ad-wrapper
 ##a[href^="https://ad.doubleclick.net/"]
 ###adslot300x250ATF
