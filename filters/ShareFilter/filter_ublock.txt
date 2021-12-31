@@ -24,6 +24,7 @@
 ###fb-root:not(body):not(html)
 ##.hatena-bookmark-button
 ##.share-text
+##.social-block
 ###vk_groups
 !
 
