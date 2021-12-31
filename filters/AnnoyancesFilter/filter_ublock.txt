@@ -40,5 +40,6 @@ sporcle.com##.sporcle-promo
 !
 ! Mobile apps annoyances block for mobile
 !
+eggs.mu##.mainappBtn
 smt.docomo.ne.jp##.iosAppBanner
 !
