@@ -1,0 +1,35 @@
+[Adblock Plus 2.0]
+! Title: SecurityEntire Adblock Turkish for uBO
+! Description: This filter blocks ads on a Turkish websites.
+! Homepage: https://github.com/securityentire/adblock
+
+! -------------------------------------------------------------------
+! General block
+! -------------------------------------------------------------------
+!
+! General ads block
+!
+-728x90-
+!
+
+! -------------------------------------------------------------------
+! Advertising domains
+! -------------------------------------------------------------------
+!
+! List of advertising domains
+!
+||coinzillatag.com^$3p
+!
+
+! -------------------------------------------------------------------
+! DIV ads block
+! -------------------------------------------------------------------
+!
+! DIV ads blocklist
+!
+coin-turk.com##.box > div > center
+coin-turk.com###meta-2.widget:nth-of-type(1)
+coin-turk.com##.banner
+coin-turk.com##.yenireklamdesktop
+coin-turk.com##.header_banner
+!
