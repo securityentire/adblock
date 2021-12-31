@@ -44,3 +44,10 @@ sporcle.com##.sporcle-promo
 eggs.mu##.mainappBtn
 smt.docomo.ne.jp##.iosAppBanner
 !
+
+!
+! Notification popups, widgets
+!
+tuttotech.net##.modal-notifiche
+!
+!
