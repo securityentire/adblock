@@ -42,6 +42,7 @@ nv.ua##.sponsors_left_fixed
 radiotimes.com##.promotional-content
 radiotimes.com##.widget-newsletter-sign-up
 sporcle.com##.sporcle-promo
+themezee.com##.boxzilla-newsletter
 zemlyaki.name##a[href="https://t.me/novostidnya7"]
 !
 
