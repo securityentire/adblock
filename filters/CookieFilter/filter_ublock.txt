@@ -28,9 +28,11 @@
 !
 ! DIV cookie banners block
 !
+app.revolut.com##div[class*="styled__CookieBannerOuter"]
 is74.ru##.cookie-card
 nv.ua##.cookie-label
 pdfprof.com###dddhh
+revolut.com##div[role="dialog"][aria-label="Cookie preferences"]
 smallpdf.com##.sc-1bhf2s-0
 sponichi.co.jp##.toast-info
 strana.news###openModal
