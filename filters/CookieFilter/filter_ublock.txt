@@ -30,6 +30,7 @@
 !
 app.revolut.com##div[class*="styled__CookieBannerOuter"]
 is74.ru##.cookie-card
+npaudio.uk##.wundery-cookie-banner
 nv.ua##.cookie-label
 pdfprof.com###dddhh
 revolut.com##div[role="dialog"][aria-label="Cookie preferences"]
