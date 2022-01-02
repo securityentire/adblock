@@ -41,3 +41,14 @@ tuclothing.sainsburys.co.uk###__tealiumGDPRecModal
 unwire.hk###cookie
 voelkner.de##.reveal__overlay
 !
+
+! -------------------------------------------------------------------
+! DIV general block
+! -------------------------------------------------------------------
+!
+! DIV general block
+!
+##.cookie-notice-container
+##.cookie-revoke-hidden
+###cookie-notice
+!
