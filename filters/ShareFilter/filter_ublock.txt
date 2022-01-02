@@ -32,6 +32,7 @@
 ##.fb-page
 ###fb-root:not(body):not(html)
 ##.hatena-bookmark-button
+##.resp-sharing-button
 ##.share-text
 ##.social-block
 ##.swp_social_panel
