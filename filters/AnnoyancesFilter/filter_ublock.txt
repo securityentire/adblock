@@ -29,6 +29,7 @@
 !
 datacamp.com##.dc-ps-banner-wrapper
 forbes.com.br##.mc4wp-form
+i.wajuejin.com##.layermbox
 journal.tinkoff.ru###bannerlink-level
 journal.tinkoff.ru###credit-card-footer-banner
 journal.tinkoff.ru##div[data-tracking-level-label*="mailing"]
