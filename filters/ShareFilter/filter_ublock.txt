@@ -4,6 +4,15 @@
 ! Homepage: https://github.com/securityentire/adblock
 
 ! -------------------------------------------------------------------
+! General block
+! -------------------------------------------------------------------
+!
+! General block
+!
+/wp-content/plugins/social-warfare/*
+!
+
+! -------------------------------------------------------------------
 ! DIV general share block
 ! -------------------------------------------------------------------
 !
@@ -25,6 +34,7 @@
 ##.hatena-bookmark-button
 ##.share-text
 ##.social-block
+##.swp_social_panel
 ###vk_groups
 !
 
