@@ -105,6 +105,7 @@ beauty.oricon.co.jp##aside[style="text-align:center;margin-top:3px;min-height:10
 beauty.oricon.co.jp##.break-ad-box
 chobirich.com##div[class^="bnr_skyscraper_"]
 devdiscourse.com##.col-md-4 > div.m-t-10
+dokumen.tips##div[class*="gg_ads_"]
 farminguk.com##.advert-word
 farminguk.com##.keyword-image-advert
 farminguk.com###newsadvert
