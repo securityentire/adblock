@@ -18,6 +18,7 @@
 !
 ! Annoyance domains
 !
+||cdn.carrotquest.app^$3p
 ||cdn.pn.vg^$3p
 !
 
@@ -28,6 +29,8 @@
 ! DIV annoyances block
 !
 datacamp.com##.dc-ps-banner-wrapper
+
+firstvds.ru##.be-author-popup
 forbes.com.br##.mc4wp-form
 i.wajuejin.com##.layermbox
 journal.tinkoff.ru###bannerlink-level
