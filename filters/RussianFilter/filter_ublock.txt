@@ -24,6 +24,7 @@ _728x90_
 ||adriver.ru^
 ||bro1.biz^$3p
 ||cdn-rtb.sape.ru^
+||citydsp.com^$3p
 ||gnezdo.ru^
 ||hunterdelivery.com^$3p
 ||major-inpp-code.com^$3p
