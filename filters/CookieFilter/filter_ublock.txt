@@ -37,6 +37,7 @@ revolut.com##div[role="dialog"][aria-label="Cookie preferences"]
 smallpdf.com##.sc-1bhf2s-0
 sponichi.co.jp##.toast-info
 strana.news###openModal
+tr-gameland.com##.cmp-popup-cookies
 tuclothing.sainsburys.co.uk###__tealiumGDPRecModal
 unwire.hk###cookie
 voelkner.de##.reveal__overlay
