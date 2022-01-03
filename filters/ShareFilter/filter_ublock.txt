@@ -28,6 +28,7 @@
 ##a[href^="https://twitter.com/share"]
 ##a[href^="https://web.whatsapp.com/send?text="]
 ##.btn_share
+##div[class^="widget-social"]
 ##div[id^="ok_group_widget"]
 ##.fb-page
 ###fb-root:not(body):not(html)
