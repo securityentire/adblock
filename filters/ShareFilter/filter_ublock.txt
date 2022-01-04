@@ -46,7 +46,7 @@
 !
 ! DIV share block
 !
-360x2022.yandex##.share
+360x2022.yandex,eromanga-sensei.com,fate-15th.com##.share
 androidjiten.com##.article_social__title
 eggs.mu##.m-sns
 moskvichmag.ru##.ArticleShare
