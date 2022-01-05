@@ -119,6 +119,8 @@ farminguk.com##.advert-word
 farminguk.com##.keyword-image-advert
 farminguk.com###newsadvert
 forbes.com.br##.anuncio-billboard
+flightconnections.com##div[id^="ct-container__parallax__flightconnections_com__"]
+flightconnections.com##.waldo-footer
 flutterq.com###fixedban
 flutterq.com##.inside-right-sidebar
 gadgets.ndtv.com##div[style="text-align:center;margin:10px auto 0;"]
