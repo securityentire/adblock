@@ -27,6 +27,7 @@
 ##a[href^="https://twitter.com/intent/tweet?"]
 ##a[href^="https://twitter.com/share"]
 ##a[href^="https://web.whatsapp.com/send?text="]
+##.article-share
 ##.btn_share
 ##div[class^="widget-social"]
 ##div[id^="ok_group_widget"]
@@ -36,6 +37,7 @@
 ##.resp-sharing-button
 ##.share-text
 ##.social-block
+##.social-share
 ##.swp_social_panel
 ###vk_groups
 !
