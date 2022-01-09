@@ -166,10 +166,12 @@ robots.net##.responsive-vertial-ad-wrapper
 robots.net###sticky-footer-ads
 sentinelassam.com###left_level_2
 smt.docomo.ne.jp###WrpAd
-sponichi.co.jp##.banner03
-sponichi.co.jp##.square-area
 sporcle.com##.ad-hide
 sporcle.com##.IMGgi
+sponichi.co.jp##.banner03
+sponichi.co.jp##.square-area
+sportowebeskidy.pl##.bananer
+sportowebeskidy.pl##p a[href]
 thebulletintime.com##.code-block
 thequint.com##._38DG7
 thequint.com##._4xQrn
@@ -264,4 +266,5 @@ yenierzurumhaber.com##.reklammain
 !
 ||audiobookbay.nl/images/bz.jpg$important
 ||google.com/adsense/search/
+||sportowebeskidy.pl/static/thumbnail/bananer/
 !
