@@ -179,6 +179,8 @@ thequint.com##._38DG7
 thequint.com##._4xQrn
 travis.media###widget-sticky
 tutsnode.net##.tutsn-widget
+tvtoonsindia.com###block-2
+tvtoonsindia.com###custom_html-12
 ! viva.pl##.pending-ad
 viva.pl##.placement
 yenierzurumhaber.com##div[id^="ayesoft_sidereklam_widget-"]
@@ -250,6 +252,7 @@ yenierzurumhaber.com##.reklammain
 ##.sagreklam
 ##.single-mpu
 ##span[id^="ezoic-pub-ad-placeholder-"]
+##[src*="//acceptable.a-ads.com/"]
 ##.sticky-ad
 ###sticky-ad
 ###taboola-below-article-thumbnails
