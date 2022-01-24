@@ -174,6 +174,7 @@ sponichi.co.jp##.square-area
 sportowebeskidy.pl##.bananer
 sportowebeskidy.pl##p a[href]
 thebulletintime.com##.code-block
+thegeekpage.com##div[style="margin: 8px auto; text-align: center; display: block; clear: both;"]
 thequint.com##._38DG7
 thequint.com##._4xQrn
 travis.media###widget-sticky
