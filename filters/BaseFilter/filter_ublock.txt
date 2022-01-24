@@ -140,6 +140,7 @@ microcontrollerslab.com##.widget_block.inner-padding.widget
 microcontrollerslab.com###text-6
 mobilemagazinehk.com##.adv2
 neggly.org##.card-panel:nth-of-type(2)
+pythonawesome.com##.ggcontent
 nv.ua##.background-branding
 nv.ua##div[id^="async_spec_"]
 ommcomnews.com##.mrzd-container
