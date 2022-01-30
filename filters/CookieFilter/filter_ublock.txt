@@ -30,6 +30,7 @@
 ! DIV cookie banners block
 !
 app.revolut.com##div[class*="styled__CookieBannerOuter"]
+derya.com##.d127
 is74.ru##.cookie-card
 npaudio.uk##.wundery-cookie-banner
 nv.ua##.cookie-label
@@ -43,6 +44,7 @@ tuclothing.sainsburys.co.uk###__tealiumGDPRecModal
 unwire.hk###cookie
 voelkner.de##.reveal__overlay
 warthunder.ru##.wt-cb
+yedas.com###header-announcement
 !
 
 ! -------------------------------------------------------------------
