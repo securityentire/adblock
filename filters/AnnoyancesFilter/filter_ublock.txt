@@ -48,7 +48,6 @@ radiotimes.com##.widget-newsletter-sign-up
 sporcle.com##.sporcle-promo
 sporcle.com###go-orange
 themezee.com##.boxzilla-newsletter
-xtraining.kaspersky.com###cbanner
 zemlyaki.name##a[href="https://t.me/novostidnya7"]
 !
 
