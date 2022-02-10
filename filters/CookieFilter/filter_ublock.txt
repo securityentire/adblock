@@ -44,6 +44,7 @@ tuclothing.sainsburys.co.uk###__tealiumGDPRecModal
 unwire.hk###cookie
 voelkner.de##.reveal__overlay
 warthunder.ru##.wt-cb
+xtraining.kaspersky.com###cbanner
 yedas.com###header-announcement
 !
 
