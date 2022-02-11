@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: SecurityEntire Adblock Spyware for uBO
+! Description: This filter blocks trackers on a all websites.
+! Homepage: https://github.com/securityentire/adblock
+
+! -------------------------------------------------------------------
+! Specific site block
+! -------------------------------------------------------------------
+!
+! Specific site block
+!
+||adguard.com/-/event^
+!
