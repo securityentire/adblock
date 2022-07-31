@@ -29,13 +29,13 @@
 ! DIV annoyances block
 !
 datacamp.com##.dc-ps-banner-wrapper
-
 firstvds.ru##.be-author-popup
 forbes.com.br##.mc4wp-form
 i.wajuejin.com##.layermbox
 journal.tinkoff.ru###bannerlink-level
 journal.tinkoff.ru###credit-card-footer-banner
 journal.tinkoff.ru##div[data-tracking-level-label*="mailing"]
+lpgenerator.ru##.blog__offer
 newsmaker.md##.widget_media_image.widget
 nv.ua##.collection_form__container
 nv.ua##.coronavirus_subscribe
